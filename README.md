@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**LAKSHMANRAO5695/LAKSHMANRAO5695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LAKSHMANRAO is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
